@@ -10,4 +10,13 @@ dependencies:
     - pandas
     - thinc
     - tensorFlow
+    - opencv
+    - opencv-python
     - cv2
+    - keras
+    - scrapy
+    - theano
+    - beautifulsoup4
+    - request
+    - scikit-image
+    - mxnet
