@@ -10,7 +10,6 @@ dependencies:
     - pandas
     - thinc
     - tensorFlow
-    - opencv
     - opencv-python
     - cv2
     - keras
